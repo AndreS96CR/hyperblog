@@ -6,3 +6,5 @@ Mañana hablaremos de su vida laboral.
 
 Pero Andres hablaremos de andresito un joven que estudiaba derecho y ahora estudia 
 desarrollo web.
+
+Andresito estudia actualmente en platzi en la escuela de desarrollo web.
